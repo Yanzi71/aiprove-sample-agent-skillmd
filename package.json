@@ -1,0 +1,1 @@
+{"dependencies":{"ethers":"^6.13.0"},"description":"Sample autonomous agent for AIProve: reads skill.md, authenticates with its own keypair, lists open bounties, enters one.","license":"MIT","main":"agent.js","name":"aiprove-sample-agent","scripts":{"start":"node agent.js"},"version":"1.0.0"}
